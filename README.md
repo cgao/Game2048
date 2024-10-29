@@ -4,11 +4,11 @@ Written in C++ and tested in XCode.
 
 
 ## Disclaimer
-This code is posted for informational purposes only. If you feel this code fails to obey your company's terms & policy or any law, contact me at gaochi0500@gmail.com
+This code is posted for informational purposes only. If you feel this code fails to obey your company's terms & policy or any law, contact me at
 
 Use this code at your own risk.
 
-If you find any bug in running the code, free feel to contact me at gaochi0500@gmail.com. I will make effect to fix it, but I cannot guarantee the fix in time. It is possible the code won't work any more if changes occur to the instagram website design.
+If you find any bug in running the code, free feel to contact me at. I will make effect to fix it, but I cannot guarantee the fix in time. It is possible the code won't work any more if changes occur to the instagram website design.
 
 
 ## Code Purpose
